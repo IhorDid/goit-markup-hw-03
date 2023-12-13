@@ -283,7 +283,7 @@ img {
   letter-spacing: 0.02em;
 }
 
-footer > a {
+.logo-link {
   display: inline-block;
   margin-bottom: 16px;
 }
